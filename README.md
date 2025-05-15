@@ -61,7 +61,7 @@ GitHub, Figma, VS Code, Netlify, Vercel, TanStack Query
 ### 🪙 [Affiliate Marketing & Rewards-Based Web Application](https://www.cashooz.com/)
 Cashooz is a rewards-based affiliate marketing platform where users earn points by completing various tasks including app testing, game trials, and promotional offers. It merges an intuitive user interface with a highly scalable backend system.
 
-![Cashooz Screenshot](https://i.ibb.co/fdWp56zz/cashooz.png)
+![Cashooz Screenshot](https://i.ibb.co/mVGx34L3/cashooz.png)
 
 <!-- Optional GitHub link -->
 <!-- [View GitHub Repo](https://github.com/Sabbir386/cashooz-client) -->
@@ -72,7 +72,7 @@ Cashooz is a rewards-based affiliate marketing platform where users earn points 
 Sinan Gift Corner is a production-ready e-commerce web app built to deliver a smooth, secure, and engaging shopping experience. Users can effortlessly browse, manage carts, and place orders—without needing to register—making the platform accessible and friction-free for casual shoppers.
 
 
-![Sinan Gift Corner Screenshot](https://i.ibb.co/zW1LTchr/sinan.png)
+![Sinan Gift Corner Screenshot](https://i.ibb.co/SX4GHd7J/sinan.png)
 
 <!-- Optional GitHub link -->
 <!-- [View GitHub Repo](https://github.com/SabbirAhmed/sinan-gift-corner) -->
@@ -82,7 +82,7 @@ Sinan Gift Corner is a production-ready e-commerce web app built to deliver a sm
 ### 🌐 [My Portfolio Website](https://sabbirahmed.vercel.app/)
 Personal website built with modern web tech showcasing my projects and skills.
 
-![Portfolio Screenshot](https://github.com/Sabbir386/sinan-gift-craft-client)
+![Portfolio Screenshot](https://i.ibb.co/jv34fTzB/portfolio.png)
 
 ---
 
