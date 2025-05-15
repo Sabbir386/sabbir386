@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sabbir Ahmed!
 
-I'm a passionate **Web Developer** who enjoys building scalable, efficient, and user-friendly web applications.
+I'm a passionate **Web Developer** focused on building scalable, efficient, and user-friendly web applications.
 
 ---
 
@@ -28,18 +28,17 @@ GitHub, Figma, VS Code, Netlify, Vercel, TanStack Query
 
 ## 🔍 Interests
 
-- 💻 Full-stack development
-- ✨ Clean code practices
-- ⚡ Performance optimization
+- 💻 Full-stack development  
+- ✨ Clean code practices  
+- ⚡ Performance optimization  
 - 🌐 Scalable systems
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/md-sabbir-ahmed-14ab32283)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)]([https://yourportfolio.com](https://sabbirahmed.vercel.app/))  
-Feel free to reach out or collaborate on interesting projects!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sabbir-ahmed-14ab32283)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://sabbirahmed.vercel.app)
 
 ---
 
