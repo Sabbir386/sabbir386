@@ -88,7 +88,7 @@ Personal website built with modern web tech showcasing my projects and skills.
 
 ## 📫 Contact Me
 
-- 📧 Email: sabbirahmed.dev19@gmail.com *(replace if needed)*
+- 📧 Email: sabbirahmed.dev19@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-sabbir-ahmed-14ab32283)
 - 🌍 [Portfolio Website](https://sabbirahmed.vercel.app)
 
