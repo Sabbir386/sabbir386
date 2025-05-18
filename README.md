@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sabbir Ahmed!
 
-I'm a passionate **Web Developer** focused on building scalable, efficient, and user-friendly web applications.
+I'm a dedicated **Web Developer** focused on building scalable, efficient, and user-friendly web applications.
 
 ---
 
