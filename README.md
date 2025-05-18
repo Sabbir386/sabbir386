@@ -47,12 +47,18 @@ GitHub, Figma, VS Code, Netlify, Vercel, TanStack Query
 
 ---
 
+
 ## 📈 GitHub Stats
 
-![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabbir386&show_icons=true&theme=radical&hide_title=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir386&layout=compact&theme=radical)
+![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir386&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-> 🔄 These update automatically based on your activity!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir386&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sabbir386&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sabbir386&label=Profile%20views&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/sabbir386?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/sabbir386?label=Stars&style=social)
 
 ---
 
