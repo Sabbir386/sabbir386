@@ -9,7 +9,7 @@ I'm a dedicated **Web Developer** focused on building scalable, efficient, and u
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-C, C++, Java
+Also familiar with: C, C++, Java
 
 **Frontend**  
 HTML, CSS, Tailwind CSS, Bootstrap, DaisyUI  
