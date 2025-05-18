@@ -49,8 +49,8 @@ GitHub, Figma, VS Code, Netlify, Vercel, TanStack Query
 
 ## 📈 GitHub Stats
 
-![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabbirAhmed&show_icons=true&theme=radical&hide_title=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAhmed&layout=compact&theme=radical)
+![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabbir386&show_icons=true&theme=radical&hide_title=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir386&layout=compact&theme=radical)
 
 > 🔄 These update automatically based on your activity!
 
