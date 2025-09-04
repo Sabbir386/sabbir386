@@ -16,7 +16,7 @@ HTML, CSS, Tailwind CSS, Bootstrap, DaisyUI
 React.js, Next.js
 
 **Backend**  
-Node.js, Express.js, Firebase Auth, GraphQL, JWT
+Node.js, Express.js,Redis (with BullMQ),Socket.IO, Firebase Authentication, GraphQL, JWT
 
 **Database**  
 MongoDB, Mongoose
@@ -85,7 +85,7 @@ Sinan Gift Corner is a production-ready e-commerce web app built to deliver a sm
 
 ---
 
-### 🌐 [My Portfolio Website](https://sabbirahmed.vercel.app/)
+### 🌐 [My Portfolio Website](https://sabbir-ahmed-portfolio-delta.vercel.app/)
 Personal website built with modern web tech showcasing my projects and skills.
 
 ![Portfolio Screenshot](https://i.ibb.co/jv34fTzB/portfolio.png)
@@ -96,7 +96,7 @@ Personal website built with modern web tech showcasing my projects and skills.
 
 - 📧 Email: sabbirahmed.dev19@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-sabbir-ahmed-14ab32283)
-- 🌍 [Portfolio Website](https://sabbirahmed.vercel.app)
+- 🌍 [Portfolio Website](https://sabbir-ahmed-portfolio-delta.vercel.app/)
 
 ---
 
