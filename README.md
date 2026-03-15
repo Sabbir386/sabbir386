@@ -17,19 +17,22 @@ I'm a dedicated **Web Developer** focused on building scalable, efficient, and u
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 Also familiar with: C, C++, Java
 
+🚀 **Tech Stack**
+
 **Frontend**  
-HTML, CSS, Tailwind CSS, Bootstrap, DaisyUI  
-React.js, Next.js
+HTML • CSS • Tailwind CSS • Bootstrap • DaisyUI • React.js • Next.js • Next.js 14 App Router & Server Actions
 
 **Backend**  
-Node.js, Express.js,Redis (with BullMQ),Socket.IO, Firebase Authentication, GraphQL, JWT
+Node.js • Express.js • Redis (BullMQ) • Socket.IO • Firebase Authentication • GraphQL • JWT
 
 **Database**  
-MongoDB, Mongoose
+MongoDB • Mongoose
+
+**DevOps / Cloud**  
+Docker • AWS
 
 **Tools**  
-GitHub, Figma, VS Code, Netlify, Vercel, TanStack Query
-
+GitHub • Figma • VS Code • Netlify • Vercel • TanStack Query
 ---
 
 ## 🔍 Interests
@@ -41,12 +44,7 @@ GitHub, Figma, VS Code, Netlify, Vercel, TanStack Query
 
 ---
 
-## 🧠 Currently/Future Learning
-
-- Docker  
-- Next.js 14 App Router & Server Actions  
-- AWS  
-- DBMS  
+## 🧠 Currently/Future Learning 
 - PostgreSql
 - Prisma
 - Testing Titan
