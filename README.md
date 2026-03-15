@@ -2,6 +2,12 @@
 
 I'm a dedicated **Web Developer** focused on building scalable, efficient, and user-friendly web applications.
 
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabbir-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/md-sabbir-ahmed-14ab32283)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+
 ---
 
 ## 🚀 Tech Stack
